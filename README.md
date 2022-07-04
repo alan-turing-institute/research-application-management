@@ -7,10 +7,9 @@
 
 ## About this Repository
 
-This repository includes files and resources recommended for stakeholder engagement and application management for research projects, created by researchers at The Alan Turing Instiute. Learn more about our team [here](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/research-application-management).
+This repository includes resources recommended for stakeholder engagement and application management for research projects, created by researchers at The Alan Turing Instiute. Learn more about our team and what Research Application Managers do at the Turing [here](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/research-application-management).
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update information on your README page with information about your project.
 
 ## Repo Structure
 
