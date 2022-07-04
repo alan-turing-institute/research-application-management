@@ -3,25 +3,14 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*A The Turing Way inspired project to enable reproducibility in data science.*
+*A The Turing Way inspired project to share resources for research application management.*
 
 ## About this Repository
 
-This is a template for setting-up a research or data science project online, such as on GitHub.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+This repository includes files and resources recommended for stakeholder engagement and application management for research projects, created by researchers at The Alan Turing Instiute. Learn more about our team [here](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/research-application-management).
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
 When reusing this repository, please update information on your README page with information about your project.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-<!--If reusing this repository, delete this section -->
 
 ## Repo Structure
 
@@ -75,7 +64,7 @@ This repository is jointly developed and maintained by Open Research Community B
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
+- [x] Add a README file
 - [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [ ] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
@@ -96,7 +85,7 @@ This repository is jointly developed and maintained by Open Research Community B
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
+For any organisation related queries or concerns, you can directly reach out to the RAM team by emailing [RAM@turing.ac.uk](mailto:RAM@turing.ac.uk).
 
 ♻️ License
 ---
@@ -116,11 +105,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
+ 
+   <td align="center"><a href="https://github.com/AidaMehonic"><img src="https://avatars.githubusercontent.com/u/45169136?v=4" width="100px;" alt=""/><br /><sub><b>Aida Mehonic</b></sub></a><br /><a href="#ideas-AidaMehonic" title="RAM">🐏</a></td>
+   <td align="center"><a href="https://github.com/aldenc"><img src="https://avatars.githubusercontent.com/u/20688591?v=4" width="100px;" alt=""/><br /><sub><b>Alden Conner</b></sub></a><br /><a href="#ideas-aldenc" title="RAM">🐏</a></td>
+   <td align="center"><a href="https://github.com/dingaaling"><img src="https://avatars.githubusercontent.com/u/5104098?v=4" width="100px;" alt=""/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#ideas-dingaaling" title="RAM">🐏</a></td> 
+   <td align="center"><a href="https://github.com/harisood"><img src="https://avatars.githubusercontent.com/u/67151373?v=4" width="100px;" alt=""/><br /><sub><b>Hari Sood</b></sub></a><br /><a href="#ideas-harisood" title="RAM">🐏</a></td>   
+      
   </tr>
 </table>
 
