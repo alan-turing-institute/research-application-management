@@ -3,7 +3,7 @@
 Here is a checklist of steps to take and resources to refer to when organising a Turing event.
 
 ## Setting up the Event
-1. Decide whether or not you need the support of the Events team (usually for a large, high profile event with external audience included). (If yes, work with RPM to submit [Events and engagement request form](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2334&SearchId=18818&utm_source=interact&utm_medium=quick_search&utm_term=event) 
+1. Decide whether or not you need the support of the Events team (usually for a large, high profile event with external audience included). (If yes, work with RPM to submit [Events and engagement request form](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2334&SearchId=18818&utm_source=interact&utm_medium=quick_search&utm_term=event)) 
 2. Decide whether or not the event has an in-person component. (If yes, notify Events team and contact Facilities to reserve room).
 3. Work with RPM to create (Zoom event registration page)[https://support.zoom.us/hc/en-us/articles/211579443-Scheduling-a-meeting-with-registration].
 4. Decide whether or not you need an event page on the Turing website. (If yes, work with [website team](https://mathison.turing.ac.uk/Interact/Pages/Content/Document.aspx?id=2323&SearchId=18827&utm_source=interact&utm_medium=general_search&utm_term=website+template) to fill out website template and share speaker bio/photos if they do not have a Turing profile already).
@@ -18,4 +18,4 @@ Here is a checklist of steps to take and resources to refer to when organising a
 
 ## After the Event
 
-11. If you plan to publish a video, collect a signed Speaker Release from all speakers. Send this and the request to publish the video to the Turing Video team.
+11. If you plan to publish a video, collect a signed Speaker Release from all speakers, make the video downloadable so Video team can accept it and add request for deadline. Send this and the request to publish the video to the Turing Video team.
