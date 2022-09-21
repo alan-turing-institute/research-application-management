@@ -2,10 +2,9 @@
 
 ### RAM engagement: January 2022 - March 2023
 
-## Description: method to improve the predictive capability of asset management algorithms by learning from 
-Data recorded from an entire fleet - rather than individual systems. By considering populations as a whole, 
-such as trucks in a transportation network or turbines in a wind farm, the data available for training can be (in effect) extended. 
-This mode of inference can improve the predictive performance while reducing the uncertainty in the models that approximate fleet status
+## Description: 
+* Method to improve the predictive capability of asset management algorithms by learning from d ata recorded from an entire fleet - rather than individual systems. By considering populations as a whole,  such as trucks in a transportation network or turbines in a wind farm, the data available 
+for training can be (in effect) extended. This mode of inference can improve the predictive performance while reducing the uncertainty in the models that approximate fleet status
 
 ## Impact Highlights
 * RAM creation of 1-pager to share with external stakeholders
