@@ -4,7 +4,7 @@ title: "New issue"
 labels: [add_to_project]
 body:  
   - type: markdown
-  attributes:
+    attributes:
       value: |
       Use this form to submit an issue to the RAM repo. Create an issue any time you wish to add a new file to the repo or make major changes.
   - type: textarea
