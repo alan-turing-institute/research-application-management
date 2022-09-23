@@ -1,9 +1,10 @@
 # [PROJECT NAME]
+[Turing project page](LINK)
 
 #### RAM engagement timeline: MONTH YYYY - MONTH YYYY
 
 ## Description
-*
+
 
 ## Impact highlights
 * 
@@ -13,6 +14,6 @@
 * EXAMPLE: Facilitate Workshop ([notes](LINK))
 * 
 
-## Research outputs
+## Public-facing outputs
 * EXAMPLE: [1-pager](LINK)
 * EXAMPLE: [AI UK Workshop Video](LINK)
