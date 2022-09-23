@@ -1,5 +1,7 @@
 # DTs for Fleet Modelling
 
+[Project page](https://github.com/labull/EngineeringPatternRecognition/blob/main/Knowledge-transfer-in-engineering-fleets.ipynb)
+
 ### RAM engagement: January 2022 - March 2023
 
 ## Description: 
@@ -18,7 +20,7 @@ for reliable performance monitoring and forecasting.
 * Facilitate AI UK 2022 Workshop ([notes](https://docs.google.com/document/d/1RpHiux5uHtWqhTlwLvUCbyRVWGQ_FohYlAAOzAp4y9g/edit#))
 * Meeting with Visualwind Managing Director for feedback
 
-## Research outputs
+## Public-facing outputs
 * [1-pager](https://github.com/alan-turing-institute/research-application-management/blob/case_study_repo/docs/case_studies/asg/1-pagers/Fleet%20Monitoring%20v3_compressed.pdf)
 * [AI UK 2022 Lightning Talk](https://www.youtube.com/watch?v=EVTJDvRNMfs&list=PLuD_SqLtxSdV29ArDt6Yorez73Mmz-Jyb&index=9)
 * [AI UK 2022 Workshop](https://www.youtube.com/watch?v=MQ88wg9-WqQ&list=PLuD_SqLtxSdVEUsCYlb5XjWm9D6WuNKEz&index=8)
