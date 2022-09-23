@@ -1,18 +1,18 @@
 # [PROJECT NAME]
 
-### RAM engagement: MONTH YYYY - MONTH YYYY
+### RAM engagement timeline: MONTH YYYY - MONTH YYYY
 
-## Description:
+## Description
 *
 
-## Impact Highlights
+## Impact highlights
 * 
 * 
 
 ## Stakeholder engagement
-* Facilitate Workshop ([notes](LINK))
+* EXAMPLE: Facilitate Workshop ([notes](LINK))
 * 
 
 ## Research outputs
-* [1-pager](LINK)
-* [AI UK Workshop Video](LINK)
+* EXAMPLE: [1-pager](LINK)
+* EXAMPLE: [AI UK Workshop Video](LINK)
