@@ -1,5 +1,5 @@
 # [PROJECT NAME]
-[Turing project page](LINK)
+[Project page](LINK)
 
 #### RAM engagement timeline: MONTH YYYY - MONTH YYYY
 
