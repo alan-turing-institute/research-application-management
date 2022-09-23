@@ -1,5 +1,5 @@
 name: Issue
-dsecription: add an issue to the public RAM repo
+description: add an issue to the public RAM repo
 label: add_to_project
 body: 
   -type: markdown
