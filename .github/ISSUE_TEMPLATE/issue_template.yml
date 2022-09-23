@@ -1,4 +1,4 @@
-name: "Issue"
+name: "Add task to project board"
 description: Add an issue to the public RAM repo
 title: "New issue"
 labels: [add_to_project]
@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this form to submit an issue to the RAM repo. Create an issue any time you wish to add a new file to the repo or make major changes.
+        Use this form to submit an issue to the RAM repo that will appear as a task on the project board. Create an issue any time you wish to add a new file to the repo or make major changes.
   - type: textarea
     id: descriptioj
     attributes:
