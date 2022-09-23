@@ -1,5 +1,7 @@
 # EnergyFlex
 
+[Project Page](https://www.turing.ac.uk/research/research-projects/simulating-energy-efficiency-opportunities-households)
+
 ## RAM engagement: February 2022 - September 2022
 
 ## Impact Highlights
@@ -10,8 +12,9 @@
 ## Stakeholder engagement
 * Facilitate AI UK 2022 Panel with stakeholders from Cambridge U, Parity Projects, and Cambridge Centre for Housing and Planning Research ([notes](https://docs.google.com/document/d/1pDDuoISwnVpP-955YYVKNIuaBlBR-l1TrqNpYTVRdUM/edit#heading=h.6avkr0nu6axo))
 * Introduction to LOTI
+* Pilots with Haringey Council, BEIS
 
-## ASG Research outputs
+## Public-facing outputs
 * [Webpage](https://www.turing.ac.uk/research/research-projects/simulating-energy-efficiency-opportunities-households)
 * [AI UK 2022 Lightning Talk](https://www.youtube.com/watch?v=TuDsTOjZI-g)
 * [AI UK 2022 Panel](https://www.youtube.com/watch?v=dHJyMyFdMDs)

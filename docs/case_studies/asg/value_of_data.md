@@ -1,5 +1,7 @@
 # Quantifying the Expected Value of Data
 
+[Project Page]()
+
 ### RAM engagement: June 2022 - March 2023
 
 ## Description:
@@ -17,6 +19,6 @@ should I replace it?" or "How much should I be willing to pay for a smart meter?
 ## Stakeholder engagement
 * 
 
-## Research outputs
+## Public-facing outputs
 * [1-pager]([https://github.com/alan-turing-institute/research-application-management/blob/case_study_repo/docs/case_studies/asg/1-pagers/Fleet%20Monitoring%20v3_compressed.pdf](https://github.com/alan-turing-institute/research-application-management/blob/case_study_repo/docs/case_studies/asg/1-pagers/VoD.pdf))
 * Computational document
