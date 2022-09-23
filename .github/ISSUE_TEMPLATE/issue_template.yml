@@ -1,7 +1,7 @@
-name: Issue
-description: add an issue to the public RAM repo
+name: "Issue"
+description: Add an issue to the public RAM repo
 title: "New issue"
-label: add_to_project
+labels: [add_to_project]
 body:  
   - type: markdown
   attributes:
