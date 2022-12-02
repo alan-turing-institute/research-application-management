@@ -3,7 +3,7 @@
 This file contains the information to cover in the GitHub onboarding session for a new RAM member!
 This session should probably take place after the sessions introducing them to TPS-associated projects, like the Turing Way and Whitaker Lab, as well as 'RAM life'
 
-Time required: 30 mins
+Time required: 45 mins
 
 ## Before the session
 * Find out which projects they're working on. Ensure that, as part of the projects' onboarding plans, they have set aside specific time to introduce them to the GitHub repos the project works with.
@@ -27,7 +27,7 @@ Time required: 30 mins
     - **[Whitaker Lab](https://github.com/WhitakerLab)**
         - Add them to the repo
         - Create a folder for them in `weekly-updates`, and describe to them how this works
-    - **[Reproducible project template]**
+    - **[Reproducible project template](https://github.com/alan-turing-institute/reproducible-project-template)**
         - Introduce them to this template, and why it could be useful to them on their projects
 * Help them coordinate GitHub onboarding sessions for their projects
 

@@ -13,12 +13,14 @@ This file will lay out all the info you need to get started with your RAM life a
 ## 🔗 Useful links
 
 * Find your onboarding issue in our [issue list](https://github.com/alan-turing-institute/research-application-management/labels/onboarding) - here is where we can track your progress with completing onboarding tasks
+* [The RAM Repo](https://github.com/alan-turing-institute/research-application-management)
+
 
 
 ## ✅ New starter checklist
 
 1. Bookmark this page and the other [useful links](#🔗-useful-links) above.
-2. **Onbarding sesions with RAM team**: Make sure you have the following introductory sessions arranged with different members of the RAM team. If you're not sure whether these have been arranged, chat to your RAM 'buddy'.
+2. **Onboarding sessions with RAM team**: Make sure you have the following introductory sessions arranged with different members of the RAM team. If you're not sure whether these have been arranged, chat to your RAM 'buddy'.
     - **[General onboarding](./sessions/general_onboarding.md)**
     - **[Introduction to RAM life](./sessions/ram_life.md)**
     - **[Introduction to People and Teams](./sessions/people_and_teams.md)**
