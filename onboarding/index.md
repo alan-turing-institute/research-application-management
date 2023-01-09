@@ -1,6 +1,6 @@
 # RAM Onboarding :rocket:
 
-Welcome to the Resesarch Application Manager Team! :tada:
+Welcome to the Research Application Manager Team! :tada:
 
 We're excited to have you join us and dive into the wonderful world of RAM.
 This file will lay out all the info you need to get started with your RAM life at Turing.
