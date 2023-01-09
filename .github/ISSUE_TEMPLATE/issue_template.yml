@@ -8,7 +8,7 @@ body:
       value: |
         Use this form to submit an issue to the RAM repo that will appear as a task on the project board. Create an issue any time you wish to add a new file to the repo or make major changes.
   - type: textarea
-    id: descriptioj
+    id: description
     attributes:
       label: Provide a description
       description: What are you adding/changing and why?
