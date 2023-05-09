@@ -1,5 +1,5 @@
 ---
-name: "\u1f91d Onboarding"
+name: "Onboarding"
 about: An issue to track onboarding of a new RAM team member
 title:
 labels: [onboarding]
