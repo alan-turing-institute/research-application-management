@@ -12,7 +12,7 @@
 * Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures
 * Be clear in how output will be captured from the participants (e.g., scribes, video/audio recordings, etc)
 
-**Workshop execution** 
+**During workshop** 
 
 * Setup equipment at the location according to the plan for the day (e.g., seating)
 * Test all technology and take stock of required resources prior to arrival of participants 
