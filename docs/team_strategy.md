@@ -14,8 +14,8 @@ The following sections will cover the RAM team's notes on our approach to facili
 ## Why
 This should be the most uncontroversial part of defining a team strategy. A team should be able to align themselves under a shared vision of real-wolrd impact - if they can't achieve this they will not easily be able to determine what work is important to the project's aims and what isn't.
 It is worth having an entire session on the why, to ensure everyone is aligned. Additionally, it can be helpful to distinguish between a team vision vs. a mission:
-    * Vision is emotive
-    * Mission is how to get there
+- Vision is emotive
+- Mission is how to get there
 
 ### Activity
 We think for this session it is helpful to keep the conversation open-ended, but also give the option to follow a template or structure if they prefer, for example an output can be:
