@@ -20,21 +20,20 @@ There are a number of things to make sure you have in place before undertaking a
 * **Focus on live facilitation**: This guide is relatively open and unstructured, with a strong focus on effective in-person facilitation. We find this to be a good approach, as it means momentum can be built live within the workshop, rather than asynchronously afterwards. However we understand this is more resource intensive, so please adapt the approach as best fits your need!
 * **Review only what was covered in sessions**: When synthesizing/clarifying discussions between sessions (see below), it is crucial to ensure no new context/information is created or included. This ensures that the team is fully involved with all aspects of how the strategy is created, and the process of creation is truly co-creative and transparent.
 * **Give conversations the time they need**: Linked to the point below, but we find it most effective to allow conversations the time they need - if there is strong disagreement, prioritise moving towards a place of alignment over getting all parts of the session completed.
-* **Checkpoints/don't revisit approach**: If alignment is reached, you should have natural checkpoints at the end of each session. If done effectively, it means you should be able to reach a new foundation after each session, which doesn't need to be revisited. 
-* **Asynchronous work**: 
+* **Checkpoints/don't revisit approach**: If alignment is reached, you should have natural checkpoints at the end of each session. If done effectively, it means you should be able to reach a new foundation after each session, which doesn't need to be revisited. Being firm on not revisiting old points will help ensure continued progress in each session.
+* **Asynchronous work**: Some tasks can be completed asynchronously. For this to be effective, the asynchronous work needs to be well defined. For instance, landing on a 'vision' statement in a workshop session that needs refining is a good candidate for asynchronous work (e.g. in a Slack thread), but 'define the team vision' with no anchor would not be.
 
 ## Session 1: Why
 *Recommended time: 2 hours*
 
-### :check_mark_button: Overview
-**Aim**: A one sentence 
-**Structure**: 
 
 ### :page_facing_up: Facilitator notes
 
+* [Template HackMD](https://hackmd.io/W58xq3sfSzG5DgQvcZaGwQ)
+
 ### :bulb: Insights
-* This can be finished off afterwards
-* The mist important one to have the right language for
+* **Importance as a foundation**: An agreed upon, strong 'North Star' is crucial for any strategy work to progress. Ensure you allow time for conversations, and spend time on language/wording to make sure everybody is happy. This is the most important session to have an agreed upon, clear output from.
+* **Managing conversation**: When you bring everyone back together, decide whether to allow people to continue to add thoughts, or to park cursors and focus on discussion. You can choose what works best for you as a facilitator, and what would work best for the team (some people may prefer to add thoughts via notes than to speak out loud).
 
 ### :writing_hand: Facilitator Review
 
