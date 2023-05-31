@@ -36,6 +36,7 @@ There are a number of things to make sure you have in place before undertaking a
 * **Managing conversation**: When you bring everyone back together, decide whether to allow people to continue to add thoughts, or to park cursors and focus on discussion. You can choose what works best for you as a facilitator, and what would work best for the team (some people may prefer to add thoughts via notes than to speak out loud).
 
 ### :writing_hand: Facilitator Review
+* Synthesize the session down into one final 'North Star'
 
 ## Session 2: How
 
