@@ -1,16 +1,13 @@
-# General Onboarding session
+# First week onboarding checklist
 
-This file contains the information to cover in the general onboarding session for a new RAM member!
-This session should probably be one of the first sessions the new team member does.
+This document provides checklists to cover the logistical items that will enable onboarding of a new RAM member!
+This session should probably be one of the first sessions the new team member does - it's best to schedule a meeting with an existing team member to go through the list of sign-ups and answer any questions, but the line manager and new team member should also use this checklist to confirm that all of these items have been completed by the end of the first week.
 
 Time required: 1 hour
 
-## Before the session
-- Touch base with their project team to find out where they store any useful resources. Collate these into a pack for the new starter!
-
-## During the session
-
-### General setup (15 mins)
+## Line manager checklist
+[] add new team member to ram@turing.ac.uk email distribution
+  [] show them how to display and edit the RAM calendar
 - Help them determine what Work From Home equipment they need, and request it from IT
 - Introduce the [Turing learning platform](https://turing.learnupon.com/dashboard) and flag that they need to complete the required training
 - Make sure they're on the invite for general Turing events e.g. Turing Town Halls.
