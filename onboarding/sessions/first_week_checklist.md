@@ -5,19 +5,31 @@ This session should probably be one of the first sessions the new team member do
 
 Time required: 1 hour
 
-## Line manager checklist
-[] add new team member to ram@turing.ac.uk email distribution
-  [] show them how to display and edit the RAM calendar
-- Help them determine what Work From Home equipment they need, and request it from IT
-- Introduce the [Turing learning platform](https://turing.learnupon.com/dashboard) and flag that they need to complete the required training
-- Make sure they're on the invite for general Turing events e.g. Turing Town Halls.
-- Run them through the hgih level Turing org structure 
+## Line manager checklist - Day 1
+- [] Add new team member to ram@turing.ac.uk email distribution
+- [] Check access to SharePoint
 
-### Tools (15 mins)
-- Introduce Turing Complete/Mathison
-- Help them to set up an HR onboarding session (if it's not been arranged yet)
-- Introduce them to SharePoint, especially the [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
+## Onboarding checklist - review together part 1
+- [] [Mathison](https://mathison.turing.ac.uk)
+  - Join Slack from sidebar
+  - Join approproate Slack channels
+- [] Github account
+- [] Hackmd account
+- [] Access [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
+- [] Access [Turing learning platform](https://turing.learnupon.com/dashboard)
 
-## After the session
+## New hire checklist
+- [] Write website bio and send to line manager
+- [] Review [Work from home policy](https://mathison.turing.ac.uk/page/2218?SearchId=258433&utm_source=interact&utm_medium=general_search&utm_term=work%20from%20home#!)
 
-Be a friendly point of contact for any Turing questions they may have!
+----------------------------------------------------------------------------------------------
+
+## Line manager checklist - Day 3-5
+- [] Confirm that Turing people page has been created and info is correct
+
+## Onboarding checklist - review together part 2
+- [] Demonstrate how to view and edit RAM calendar
+- [] Demonstrate how to book rooms through the calendar
+- [] Review Slack channels
+- [] Check for calendar invites to Town Halls, etc.
+
