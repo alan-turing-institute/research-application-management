@@ -1,37 +1,23 @@
-
-* Turing Way
-* Communication channels - Slack
-
-# People & Teams Onboarding session
+# People & teams onboarding session
 
 This file contains the information to cover in the people & teams onboarding session for a new RAM member!
 This session should probably be one of the first sessions the new team member does
 
 Time required: 1 hour
 
-## Before the session
-- Find a WL coffee chat in the week they are starting that a majority of the Lab can make to say hi - Ideally this would be on their first day but could be a different day if needed!
-- Ensure someone from theproject teams they'll be joining is set-up to onboard them to the project, and will help them meet everyone on the team
+## Line manager checklist
+- [] Introduce new starter in the TPS-team Slack channel
+- [] Find a TPS Team coffee chat in the week they are starting that a majority of the team can make to say hi - ideally this would be on their first day but could be a different day if needed!
+- [] Ensure someone from the project teams they'll be joining is set-up to onboard them to the project, and will help them meet everyone on the team
 
-## During the session
+## Review together
 
 ### TPS (10 mins)
-- Introduce [TPS](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), including the [impact story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science)
-- Introduce TPS coffee chats, and ensure they are on the invite for the event
-- TPS Org chart? Or at least meet the main people
-    - Kirstie Whitaker
-    - Arielle Bennett
-    - Malvika Sharan
-- Ensure they have access to the `#tps` Slack channel
-Introduce them on the Slack channel
-
-### Whitaker Lab (10 mins)
-- Introduce the concept of Whitaker Lab
-- Ensure they have access to the `#whitaker-lab` Slack channel, and the accompanying `#whitaker-lab-socials` & `#whitakerlab-checkin` channels.
-- Introduce them on the main Slack channel
-- Invite them to the Whitaker Lab coffee events, and Whitaker lab meetings on Thursdays (and make sure they attend the intro coffee chat mentioned above)
-- Share the [Whitaker Lab note of notes](https://hackmd.io/@whitakerlab/note-of-notes)
-- Show them the [WL members intro slide deck](https://docs.google.com/presentation/d/1g-plncmi00FK97QuYDfqq7oPzUmL0xkHm1hy4X81IX8/edit#slide=id.gf5e62e1b31_1_0) and ask them to create their own slide
+- [] Introduce [TPS](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems), including the [impact story](https://www.turing.ac.uk/research/impact-stories/changing-culture-data-science)
+- [] Introduce TPS coffee chats and team coffee chats, and ensure they are on the invite for the event
+- [] People to know in TPS
+- [] Show them the [team members intro slide deck](https://docs.google.com/presentation/d/1g-plncmi00FK97QuYDfqq7oPzUmL0xkHm1hy4X81IX8/edit?usp=sharing) and ask them to create their own slide
+- [] Show them the [TPS team notes of notes](https://hackmd.io/@whitakerlab/note-of-notes)
 
 ### Turing Way (10 mins)
 - Introduce the [Turing Way](https://the-turing-way.netlify.app/welcome)
