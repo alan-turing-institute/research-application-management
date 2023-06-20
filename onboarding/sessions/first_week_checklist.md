@@ -12,11 +12,10 @@ Time required: 1 hour
 ## Onboarding checklist - review together part 1
 - [ ] Introduce [Mathison](https://mathison.turing.ac.uk)
 - [ ] Join Slack (link in Mathison sidebar)
-  - Join appropriate Slack channels
 - [ ] Github account
 - [ ] Hackmd account
-- [ ] Access [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
-- [ ] Access [Turing learning platform](https://turing.learnupon.com/dashboard)
+- [ ] Introduce [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
+- [ ] Introduce [Turing learning platform](https://turing.learnupon.com/dashboard)
 
 ## New hire checklist
 - [ ] Send pic and bio to website@turing.ac.uk
