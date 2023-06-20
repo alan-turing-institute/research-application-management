@@ -16,6 +16,7 @@ Time required: 1 hour
 - [ ] Hackmd account
 - [ ] Introduce [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
 - [ ] Introduce [Turing learning platform](https://turing.learnupon.com/dashboard)
+- [ ] Demonstrate how to book rooms through the calendar
 
 ## New hire checklist
 - [ ] [Request new researcher profile](https://turingcomplete.topdesk.net/tas/public/ssp/content/serviceflow?unid=35b8d40067004f9484c9fb06ade41d65)
