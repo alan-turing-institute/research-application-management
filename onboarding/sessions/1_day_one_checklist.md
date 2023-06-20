@@ -1,7 +1,7 @@
 # Day 1 onboarding checklist
 
 This document provides checklists to cover the logistical items that will enable onboarding of a new RAM member!
-This session should probably be one of the first sessions the new team member does - it's best to schedule a meeting with an existing team member to go through the list of sign-ups and answer any questions, but the line manager and new team member should also use this checklist to confirm that all of these items have been completed by the end of the first week.
+This session should probably be one of the first sessions the new team member does - it's best to schedule a meeting with an existing team member to go through the list of sign-ups and answer any questions, but the line manager and new team member should also use this checklist to confirm that all of these items have been completed by the end of the first week. The remaining sessions will cover many of these topics in more detail.
 
 Time required: 1 hour
 
