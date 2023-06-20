@@ -6,30 +6,30 @@ This session should probably be one of the first sessions the new team member do
 Time required: 1 hour
 
 ## Line manager checklist - Day 1
-[x] Add new team member to ram@turing.ac.uk email distribution
-[x] Check access to SharePoint
+- [ ] Add new team member to ram@turing.ac.uk email distribution
+- [ ] Check access to SharePoint
 
 ## Onboarding checklist - review together part 1
-[x] [Mathison](https://mathison.turing.ac.uk)
+- [ ] [Mathison](https://mathison.turing.ac.uk)
   - Join Slack from sidebar
   - Join approproate Slack channels
-[x] Github account
-[x] Hackmd account
-[x] Access [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
-[x] Access [Turing learning platform](https://turing.learnupon.com/dashboard)
+- [ ] Github account
+- [ ] Hackmd account
+- [ ] Access [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
+- [ ] Access [Turing learning platform](https://turing.learnupon.com/dashboard)
 
 ## New hire checklist
-[x] Write website bio and send to line manager
-[x] Review [Work from home policy](https://mathison.turing.ac.uk/page/2218?SearchId=258433&utm_source=interact&utm_medium=general_search&utm_term=work%20from%20home#!)
+- [ ] Write website bio and send to line manager
+- [ ] Review [Work from home policy](https://mathison.turing.ac.uk/page/2218?SearchId=258433&utm_source=interact&utm_medium=general_search&utm_term=work%20from%20home#!)
 
 ----------------------------------------------------------------------------------------------
 
 ## Line manager checklist - Day 3-5
-[x] Confirm that Turing people page has been created and info is correct
+- [ ] Confirm that Turing people page has been created and info is correct
 
 ## Onboarding checklist - review together part 2
-[x] Demonstrate how to view and edit RAM calendar
-[x] Demonstrate how to book rooms through the calendar
-[x] Review Slack channels
-[x] Check for calendar invites to Town Halls, etc.
+- [ ] Demonstrate how to view and edit RAM calendar
+- [ ] Demonstrate how to book rooms through the calendar
+- [ ] Review Slack channels
+- [ ] Check for calendar invites to Town Halls, etc.
 
