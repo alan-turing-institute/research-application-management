@@ -10,9 +10,9 @@ Time required: 1 hour
 - [ ] Check access to SharePoint
 
 ## Onboarding checklist - review together part 1
-- [ ] [Mathison](https://mathison.turing.ac.uk)
-  - Join Slack from sidebar
-  - Join approproate Slack channels
+- [ ] Introduce [Mathison](https://mathison.turing.ac.uk)
+- [ ] Join Slack (link in Mathison sidebar)
+  - Join appropriate Slack channels
 - [ ] Github account
 - [ ] Hackmd account
 - [ ] Access [RAM Sharepoint](https://thealanturininstitute.sharepoint.com/sites/RAM)
@@ -26,10 +26,12 @@ Time required: 1 hour
 
 ## Line manager checklist - Day 3-5
 - [ ] Confirm that Turing people page has been created and info is correct
+- [ ] Add to necessary Github repos
 
 ## Onboarding checklist - review together part 2
+- [ ] Discuss RAM team meeting chairing schedule and how to find and edit the meeting hackmd
 - [ ] Demonstrate how to view and edit RAM calendar
 - [ ] Demonstrate how to book rooms through the calendar
 - [ ] Review Slack channels
-- [ ] Check for calendar invites to Town Halls, etc.
+- [ ] Check for calendar invites to TPS events (Collab cafe, coffees, team meeting, etc.) and Turing events (Town Halls, etc.)
 
