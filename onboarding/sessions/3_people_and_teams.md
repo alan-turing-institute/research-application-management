@@ -9,6 +9,7 @@ Time required: 1 hour
 - [ ] Introduce new starter in the TPS-team Slack channel
 - [ ] Find a TPS Team coffee chat in the week they are starting that a majority of the team can make to say hi - ideally this would be on their first day but could be a different day if needed!
 - [ ] Ensure someone from the project teams they'll be joining is set-up to onboard them to the project, and will help them meet everyone on the team
+- [ ] Make a list of people for new starter to meet & set up coffee chats with in the first few weeks
 
 ## Review together
 
@@ -21,11 +22,10 @@ Time required: 1 hour
 
 ### The Turing Way (10 mins)
 - [ ] Introduce the [Turing Way](https://the-turing-way.netlify.app/welcome)
-- [ ] Reach out to Anne to set up an introduction to everything Turing Way
 - [ ] Ensure they are added to the relevant Turing Way meetings
     - Coworking (Weekly Monday 11am)
-    - Collaboration cafes (Monthly Wednesday 3pm)
-    - Core team meeting (Tri-monthly Friday 3pm)
+    - Collaboration cafes (1st and 3rd Wednesday 3-5pm)  
+    - Core team meeting (Quarterly Friday 3pm)
 - [ ] Add them to the Slack workspace and get them to introduce themselves in `#introductions`
 
 ### Turing teams (15 mins)
@@ -40,9 +40,4 @@ Time required: 1 hour
 - [ ] Let them know how they can manage their slack notifications - and probably turn on notifications for the RAM channel
 
 ### Team social (5 min)
-- Explore a time when they are free the newly expanded RAM team can go on a social together! A drink after work or lunch, or anything else that makes sense! 
-
-## After the session
-
-Be a friendly point of contact for any people/group questions they may have!
-If you realise more people they should meet, help them set those meetings up!
+- [ ] Explore a time when they are free the newly expanded RAM team can go on a social together! A drink after work or lunch, or anything else that makes sense! 
