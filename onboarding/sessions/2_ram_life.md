@@ -13,7 +13,8 @@ Time required: 1 hour
 ## Onboarding checklist - review together
 
 RAM meetings
-- [ ] Discuss RAM team meeting chairing schedule
+- [ ] Discuss RAM team meeting schedule/format
+- [ ] Discuss RAM co-working format
 - [ ] Discuss chairing responsibilities and how to find and edit the correct meeting hackmd
 - [ ] Demonstrate how to view and edit RAM calendar
 
@@ -28,6 +29,7 @@ RAM team intro
    - If required, discuss resources for learning Github
 - Review content in the [RAM SharePoint](https://thealanturininstitute.sharepoint.com/sites/RAM/Shared%20Documents/Forms/AllItems.aspx)
 - Point them towards the [RAM Intro reading](https://hackmd.io/NZTki1n_RPuQ7ml4WVVvHA)
+- Review [Facilitating Stakeholder Engagement chapter](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html) and resources like the TPS Stakeholder map (link in chapter)
 
 ## Follow up
 
