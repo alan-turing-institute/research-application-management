@@ -24,14 +24,12 @@ Slack
    - These will be introduced in more detail in session 3  
 
 RAM team intro
-- Give a brief history of RAMs at Turing
-- Introduce the [RAM repo](https://github.com/alan-turing-institute/research-application-management)
+- [ ] [RAMs in 2023](https://docs.google.com/presentation/d/1vHxs9iDhqpjbFXXOc-KCMNoj32I6nVngkH1Vu21taig/edit?usp=sharing)
+- [ ] Introduce the [RAM repo](https://github.com/alan-turing-institute/research-application-management)
    - If required, discuss resources for learning Github
-- Review content in the [RAM SharePoint](https://thealanturininstitute.sharepoint.com/sites/RAM/Shared%20Documents/Forms/AllItems.aspx)
-- Point them towards the [RAM Intro reading](https://hackmd.io/NZTki1n_RPuQ7ml4WVVvHA)
-- Review [Facilitating Stakeholder Engagement chapter](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html) and resources like the TPS Stakeholder map (link in chapter)
+- [ ] Review content in the [RAM SharePoint](https://thealanturininstitute.sharepoint.com/sites/RAM/Shared%20Documents/Forms/AllItems.aspx)
+- [ ] Review [Facilitating Stakeholder Engagement chapter](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html) and resources like the TPS Stakeholder map (link in chapter)
 
 ## Follow up
-
-* Set up a website editing training session
-* Set up a CRM training session
+- [ ] Set up a website editing training session
+- [ ] Set up a CRM training session
