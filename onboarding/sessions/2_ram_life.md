@@ -30,6 +30,6 @@ RAM team intro
 - [ ] Review content in the [RAM SharePoint](https://thealanturininstitute.sharepoint.com/sites/RAM/Shared%20Documents/Forms/AllItems.aspx)
 - [ ] Review [Facilitating Stakeholder Engagement chapter](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html) and resources like the TPS Stakeholder map (link in chapter)
 
-## Follow up
-- [ ] Set up a website editing training session
-- [ ] Set up a CRM training session
+## Optional Extras
+- Set up a website editing training session
+- Set up a CRM training session
