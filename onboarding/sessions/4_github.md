@@ -24,13 +24,6 @@ Time required: 45 mins
         - Add them to the repo
         - Walk through the project board
         - Describe what the repo is for
-    - **[Whitaker Lab](https://github.com/WhitakerLab)**
-        - Add them to the repo
-        - Create a folder for them in `weekly-updates`, and describe to them how this works
     - **[Reproducible project template](https://github.com/alan-turing-institute/reproducible-project-template)**
         - Introduce them to this template, and why it could be useful to them on their projects
 * Help them coordinate GitHub onboarding sessions for their projects
-
-## After the session
-
-Be a friendly point of contact for any GitHub questions they may have!
