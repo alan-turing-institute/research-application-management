@@ -9,6 +9,7 @@ see this [Mathison document](https://mathison.turing.ac.uk/page/2466).
 
 The target is for the new starter to set 3-5 objectives within week 1-3 with an assessment 
 at the 5 months mark. 
+These should each be aligned with a Turing 2.0 principle
 It is recommended to use the [SMART goals framework](https://en.wikipedia.org/wiki/SMART_criteria).
 
 ### Example RAM Objectives for Probation
@@ -52,3 +53,13 @@ The May appraisal cycle is also an opportunity to review and set personal develo
 3. Contribute to open & responsible AI work and thought leadership
 - Organise 1-2 events on open source AI which highlight Turing additionality and convene a diverse audience
 - Write 1 paper to present at conference featuring work at The Turing
+
+## Turing 2.0 Principles
+
+Each objective should be aligned to one of these principles:
+- Build and deliver Turing 2.0
+- Deliver measurable impact to solve real world challenges
+- Be innovative to always add value
+- Progress our stated EDI priorities
+- Secure longer term diversified income
+- Build and embed resilience
