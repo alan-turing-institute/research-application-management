@@ -7,7 +7,7 @@ set goals for review at the end of probation.
 To learn more about the Probation process and timelines,
 see this [Mathison document](https://mathison.turing.ac.uk/page/2466).
 
-The target is for the new starter to set objectives within week 1-3 with an assessment 
+The target is for the new starter to set 3-5 objectives within week 1-3 with an assessment 
 at the 5 months mark. 
 It is recommended to use the [SMART goals framework](https://en.wikipedia.org/wiki/SMART_criteria).
 
@@ -30,7 +30,7 @@ These objectives were created by new RAMs in the AI for Science and Government (
 ## Appraisal
 
 Every year, Turing runs an appraisal process which consists of objective setting for performance review and is part of any performance-related pay discussion.
-Objectives are set in September and will be reviewed again in May of the next year.
+Objectives are set in September and will be reviewed again in May of the next year, and it is suggested to set 3-5 objectives each aligned with a Turing 2.0 principle.
 That process consists of a self evaluation on Cezanne, line manager evaluation on Cezanne, and performance review meeting with the line manager.
 To learn more about theses processes, see the Mathison documentation on [Appraisal](https://mathison.turing.ac.uk/Interact/Pages/Section/ContentListing.aspx?subsection=3715) and [Performance Review](https://mathison.turing.ac.uk/page/2319).
 
