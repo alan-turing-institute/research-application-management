@@ -20,7 +20,7 @@ These objectives were created by new RAMs in the AI for Science and Government (
 -  Organise workshop with external stakeholder
 
 2. Scope and kickstart 2-3 RAM engagements across the programme
-- Meet with multiple researchers in the programme to asssess readiness for RAM engagement
+- Meet with multiple researchers in the programme to assess readiness for RAM engagement
 - Make connections within the programme and beyond in the wider Turing network 
 
 3. Upskill on RAM, TPS, and TTW ways of working & identify opportunities to feed back
