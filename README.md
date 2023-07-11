@@ -48,7 +48,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <td align="center"><a href="https://github.com/S-Laher"><img src="https://avatars.githubusercontent.com/u/45235675?v=4" width="100px;" alt=""/><br /><sub><b>Shakir Laher</b></sub></a><br /><a href="#ideas-S-Laher" title="RAM">🐏</a></td> 
   <td align="center"><a href="https://github.com/camirincon"><img src="https://avatars.githubusercontent.com/u/80523623?v=4" width="100px;" alt=""/><br /><sub><b>Cami Rincon</b></sub></a><br /><a href="#ideas-camirincon" title="RAO">🐏</a></td> 
   <td align="center"><a href="https://github.com/kallewesterling"><img src="https://avatars.githubusercontent.com/u/7298727?v=4" width="100px;" alt=""/><br /><sub><b>Kalle Westerling</b></sub></a><br /><a href="#ideas-kallewesterling" title="RAM">🐏</a></td> 
-      
+   <td align="center"><a href="https://github.com/aranas"><img src="https://avatars.githubusercontent.com/u/6906140?v=4" width="100px;" alt=""/><br /><sub><b>Sophie Arana</b></sub></a><br /><a href="#ideas-aranas" title="RAM">🐏</a></td> 
+     
   </tr>
 </table>
 
