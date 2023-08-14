@@ -1,11 +1,3 @@
-## Aim
-- To help us flesh out a framework for prioritising projects RAMs can work with
-- To gain a wider understanding of Turing research projects and their approaches to key questions (impact, values, governance etc.)
-
-## Angle
-- Helping projects identify pathways towards real-world impact, and prepare for and oeprationalise Turing 2.0
-    - Turing 2.0 has a strong focus on innovation and impact
-
 ## Method
 - Interview X number of Turing research projects to understand where they are currently at with key questions
     - Interview at least one person per project
