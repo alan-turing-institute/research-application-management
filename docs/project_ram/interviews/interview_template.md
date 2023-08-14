@@ -1,6 +1,5 @@
 ## Aim
-- To help us flesh out a framework for prioritising projects RAMs can work with
-- To gain a wider understanding of Turing research projects and their approaches to key questions (impact, values, governance etc.)
+
 
 ## Angle
 - Helping projects identify pathways towards real-world impact, and prepare for and oeprationalise Turing 2.0
