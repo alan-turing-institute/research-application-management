@@ -29,7 +29,7 @@ We consider multiple dimensions of a research project and team to prioritise eng
 ![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/assets/5104098/19d17aff-5caa-441f-8703-1497553b1ab3)
 
 ## Examples of our work
-* Open sourcing the [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud) and creating [national standards and communuity for Trusted Research environments](https://github.com/sa-tre/satre-specification)
+* Open sourcing the [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud), bringing the community together to co-create [a reference TRE architecture](https://github.com/sa-tre/satre-specification) and creating a [national community for Trusted Research Environments](https://github.com/uk-tre/website)
 * Integrating A/B street for [use in a Bristol City Council public consultation tool](https://www.turing.ac.uk/blog/street-smart-putting-neighbourhood-design-hands-bristol-residents) to empower residents to design and assess street-level interventions in their neighbourhoods
 * Delivering cross-sector workshops with government and industry stakeholders in 'Health' and 'Autonomy' fields on behalf of the [AI Standards Hub](https://aistandardshub.org/)
 * Creating [PitchFest at AI UK](https://www.turing.ac.uk/pitchfest-share-your-research-world) to upskill Early Career Researchers to communicate the impact of their research to a public audience
