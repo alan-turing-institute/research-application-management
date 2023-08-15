@@ -20,7 +20,7 @@ Learn more about our work and access our tools and insights [here](https://the-t
 
 ## What makes for an impactful RAM engagement?
 
-We consider multiple dimensions of a research project and team to prioritise engagement across Turing's research proejcts:
+We consider multiple dimensions of a research project and team to prioritise engagement across Turing's research projects:
 * **Applicability**: How much potential does a research project have for real-world use?
 * **Capability**: To what extent does the team have the skills to translate their research to real-world use?
 * **Values**: How much does the team's approach to research align with our focus areas (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
