@@ -16,7 +16,7 @@ As a team, we develop and deliver a range of stakeholder-related activities incl
 * Research output development roadmapping
 * Workshop delivery
 
-![RAM Matrix](https://github.com/alan-turing-institute/research-application-management/blob/ram-webpage/docs/project_ram/framework/ram-rhombus-0.2.svg)
+![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/assets/5104098/717ea0b9-de41-4846-b081-42374266c054)
 
 Learn more about our work and access our tools and insights [here](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html).
 
