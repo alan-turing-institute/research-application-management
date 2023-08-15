@@ -25,8 +25,8 @@ We consider multiple dimensions of a research project and team to prioritise eng
 * **Capability**: To what extent does the team have the skills to translate their research to real-world use?
 * **Values**: How much does the team's approach to research align with our focus areas (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
 * **Practices**: How ready are the team to adopt RAM ways of working?
-
-![image](https://github.com/alan-turing-institute/research-application-management/assets/5104098/eeef6831-5e05-43bf-a2df-5395e28fd195)
+ 
+![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/assets/5104098/19d17aff-5caa-441f-8703-1497553b1ab3)
 
 ## Examples of our work
 * Open sourcing the [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud) and creating [national standards and communuity for Trusted Research environments](https://github.com/sa-tre/satre-specification)
