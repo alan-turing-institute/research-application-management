@@ -114,7 +114,7 @@ decisions when appropriate.
 ## Reporting Incident
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
-by contacting the Team Lead, Malvika Sharan (email: msharan@turing.ac.uk). Malvika may involve
+by contacting one of the team leads: Aida Mehonic, Alden Conner, or Jennifer Ding. They may involve
 the Tools, Practices and Systems Programme Director, Kirstie Whitaker when incidents are perceived 
 as difficult (not straightforward) except when any potential conflict of interest may arise.
 
