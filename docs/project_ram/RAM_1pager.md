@@ -1,7 +1,14 @@
 # Research Application Management
-## Developing research outputs for real-world problem solving while ensuring openness and reproducibility
+## Amplifying Sustainability and Impact of research outputs
 
-Research Application Managers (RAMs) focus on the sustainability and impact of research, guiding the development and use of research outputs for a broad set of stakeholders. The [role of a RAM](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) was created at the Turing to help fill the gaps between purely academic knowledge generation and the work that is required to create and maintain user-friendly tools that can be deployed to address questions beyond the scope of the original research field. RAM engagements can begin at any time in the project lifecycle, and we encourage researchers to reach out to the RAM team as early as possible so that we can incorporate the user perspective and consider possible applications in the development of research outputs. 
+The [RAM role](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) was pioneered at the Turing in order to **fill the gap** between academic knowledge generation and practical tool creation. 
+
+RAMs **collaborate** with researchers to make their research output **more relevant** for a **broad audience** beyond the scope of the original research field.
+
+Through focusing on the **user-perspective**, RAM work increases the **sustainability** and the **impact** of research output, 
+
+Are you a researcher looking to amplify your impact? Engage with RAM at any stage, but the earlier, the better. We'll integrate impact into your plan from the start. Check our impact matrix below to see if your project could benefit from a RAM.
+
 
 ## Examples of our work
 * Open sourcing the [Data Safe Haven](https://www.turing.ac.uk/research/research-projects/data-safe-havens-cloud), bringing the community together to co-create [a reference TRE architecture](https://github.com/sa-tre/satre-specification) and creating a [national community for Trusted Research Environments](https://github.com/uk-tre/website)
