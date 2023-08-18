@@ -3,8 +3,6 @@
 
 Research Application Managers (RAMs) focus on the sustainability and impact of research, guiding the development and use of research outputs for a broad set of stakeholders. The [role of a RAM](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) was created at the Turing to help fill the gaps between purely academic knowledge generation and the work that is required to create and maintain user-friendly tools that can be used to address questions beyond the scope of the original research field. RAM engagements can begin at any time in the project lifecycle, and we encourage researchers to reach out to the RAM team as early as possible so that we can incorporate the user perspective and consider possible applications in the development of research outputs. 
 
-![image](https://github.com/alan-turing-institute/research-application-management/assets/5104098/108b7fc9-4b1a-4325-964f-b19561e89f28)
-
 ## What skills do RAMs bring to research teams?
 RAMs think [beyond the research project cycle](https://journal.trialanderror.org/pub/manifesto-rewarding-recognizing/release/1), creating opportunities to reuse and reproduce research outputs in new real-world applications. At the Turing, RAMs bring product development and stakeholder engagement skills to research teams and cultivate a practice of open collaboration, encouraging interconnectedness of research within the Institute and beyond.
 
@@ -15,8 +13,6 @@ This includes deliverables like:
 * User testing & user-centred design
 * Research output development roadmapping
 * Workshop delivery
-
-
 
 Learn more about our work and access our tools and insights [here](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html).
 
