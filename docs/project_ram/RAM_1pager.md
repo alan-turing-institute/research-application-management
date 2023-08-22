@@ -16,9 +16,9 @@ Are you a researcher interested in amplifying the impact of your work? Engage wi
 
 ## What makes for an impactful RAM engagement?
 In our **RAM impact matrix**, we consider multiple dimensions of a research project and team to prioritise engagement across Turing's research projects:
-* **Applicability**: How much potential does a research project have for real-world use?
+* **Applicability**: How much potential does the research project have for real-world use?
 * **Capability**: To what extent does the team have the skills to translate their research to real-world use?
-* **Values**: How much does the team's approach to research align with our focus areas within the [Tools, Practices, and Systems (TPS) programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
+* **Values**: How much does the team's approach to research align with our focus areas within the [Tools, Practices, and Systems (TPS) programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)? (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
 * **Practices**: How ready is the team to adopt RAM ways of working?
  
 ![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/assets/5104098/19d17aff-5caa-441f-8703-1497553b1ab3)
@@ -28,15 +28,15 @@ In our **RAM impact matrix**, we consider multiple dimensions of a research proj
 Effective research has the potential to do more than answer a specific research question. For a project to maximise its impact, the team should consider questions like:
 - Who might use this research when it is completed, and how might they benefit from it?
 - Who will be affected by the research, and what outcomes would they like to see?
-- Have I set up my research project to consider sustainability beyond a specific funding window?
-- How does my work fits into the wider landscape of research in my field and other fields?
+- Does the research project consider sustainability beyond a specific funding window?
+- How does the work fit into the wider landscape of research in my field and other fields?
 
 The RAM skillset is focused on effectively exploring and answering these questions. Below are some examples of what this could entail:
 
 | Focus area | Motivation | Example activities |
 | ---------- | --------- | ------------------ |
-| End-to-end stakeholder engagement and co-creation | Ensuring that all impacted and involved people, particularly end-users, are identified early, brought into the research project and actively considered when shaping outputs | Stakeholder mapping; stakeholder engagement pipelines; organising, facilitating and managing engagement activities; translating engagement outcomes to inform research |
-| Usability and accessiblity of research outputs | Ensuring that anybody who wants to engage in the research outputs can | Writing cleaner, easier to understand code; creating documentation, guides and educational resources to support core research outputs; open-sourcing research datasets, models, and other outputs (when possible) |
+| End-to-end stakeholder engagement and co-creation | Ensuring that all impacted and involved people, particularly end users, are identified early, brought into the research project and actively considered when shaping outputs | Stakeholder mapping; stakeholder engagement pipelines; organising, facilitating and managing engagement activities; translating engagement outcomes to inform research |
+| Usability and accessiblity of research outputs | Ensuring that anybody who wants to can access and engage with the research outputs | Writing cleaner, easier to understand code; creating documentation, guides and educational resources to support core research outputs; open-sourcing research datasets, models, and other outputs (when possible) |
 | Delivering project strategy | Prioritising work to practically realise as much potential as possible from limited resources, funds and time | Facilitating the creation of a team strategy and project roadmap; identifying sustainability options beyond funding windows; identifying and implementing a target project pathway to maximise impact potential |
 
 A key characteristic of RAMs is our flexibility, as there is no one-size-fits-all approach to delivering impact for research project teams. RAMs will work to identify suitable pathways to sustainability and impact for any particular project, and leading on the implementation of that target pathway.
