@@ -21,7 +21,7 @@ In our **RAM impact matrix**, we consider multiple dimensions of a research proj
 * **Values**: How much does the team's approach to research align with our focus areas within the [Tools, Practices, and Systems (TPS) programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems)? (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
 * **Practices**: How ready is the team to adopt RAM ways of working?
  
-![RAM rhombus-Simple diagram drawio](https://raw.githubusercontent.com/alan-turing-institute/research-application-management/bfd1cc041486bf2e90a12522308835133a8cfdee/docs/project_ram/framework/RAM%20rhombus-Simple%20diagram.drawio.svg))
+![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/blob/ram-webpage/docs/project_ram/framework/ram-rhombus-0.3.svg)
 
 ## What do RAMs bring to research teams?
 
