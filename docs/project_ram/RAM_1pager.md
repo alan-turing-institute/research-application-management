@@ -2,7 +2,7 @@
 ## Amplifying Sustainability and Impact of research outputs
 
 The [RAM role](https://the-turing-way.netlify.app/collaboration/research-infrastructure-roles/ram.html) was pioneered at the Turing in order to **fill the gap** between academic knowledge generation and practical tool creation. 
-RAMs **collaborate** with researchers to make their research output **more relevant** for a **broad audience** beyond the scope of the original research field.
+RAMs collaborate with research teams to make their research output **more relevant** for a broad audience within and beyond the scope of the original research field.
 By focusing on the **user perspective**, RAMs increase the **sustainability** and the **impact** of research outputs. 
 
 Are you a researcher interested in amplifying the impact of your work? Engage with the RAM team at any stage of your project, but the earlier, the better. We'll integrate impact into your project plan from the start. Check out our impact matrix below to see if your project could benefit from working with a RAM.
@@ -18,7 +18,7 @@ Are you a researcher interested in amplifying the impact of your work? Engage wi
 In our **RAM impact matrix**, we consider multiple dimensions of a research project and team to prioritise engagement across Turing's research projects:
 * **Applicability**: How much potential does a research project have for real-world use?
 * **Capability**: To what extent does the team have the skills to translate their research to real-world use?
-* **Values**: How much does the team's approach to research align with our focus areas (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
+* **Values**: How much does the team's approach to research align with our focus areas within the [Tools, Practices, and Systems (TPS) programme](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems) (e.g. interoperable open source tools, interdisciplinary collaboration, participatory co-creation)
 * **Practices**: How ready is the team to adopt RAM ways of working?
  
 ![RAM rhombus-Simple diagram drawio](https://github.com/alan-turing-institute/research-application-management/assets/5104098/19d17aff-5caa-441f-8703-1497553b1ab3)
@@ -29,17 +29,17 @@ Effective research has the potential to do more than answer a specific research 
 - Who might use this research when it is completed, and how might they benefit from it?
 - Who will be affected by the research, and what outcomes would they like to see?
 - Have I set up my research project to consider sustainability beyond a specific funding window?
-- How does my work fits into the wider landscape of research in my field?
+- How does my work fits into the wider landscape of research in my field and other fields?
 
 The RAM skillset is focused on effectively exploring and answering these questions. Below are some examples of what this could entail:
 
-| Focus area | Rationale | Example activities |
+| Focus area | Motivation | Example activities |
 | ---------- | --------- | ------------------ |
-| End-to-end engagement and co-creation | Ensuring that all impacted and involved people, particularly end-users, are identified early, brought into the research project and actively considered when shaping outputs | Stakeholder mapping; stakeholder engagement pipelines; organising; facilitating and managing engagement activities; translating engagement activities into research questions |
-| Usability and accessiblity of research outputs | Ensuring anybody who wants to engage in the research outputs can | Writing cleaner, easier to understand code; creating documentation, guides and educational resources to support core research outputs; open-sourcing research (where possible) |
-| Effective project strategy | Prioritising work to practically realise as much potential as possible from limited resources, funds and time | Creating a team strategy and roadmap; identifying sustainability options after funding windows end; identifying and implementing a critical path to success |
+| End-to-end stakeholder engagement and co-creation | Ensuring that all impacted and involved people, particularly end-users, are identified early, brought into the research project and actively considered when shaping outputs | Stakeholder mapping; stakeholder engagement pipelines; organising, facilitating and managing engagement activities; translating engagement outcomes to inform research |
+| Usability and accessiblity of research outputs | Ensuring that anybody who wants to engage in the research outputs can | Writing cleaner, easier to understand code; creating documentation, guides and educational resources to support core research outputs; open-sourcing research datasets, models, and other outputs (when possible) |
+| Delivering project strategy | Prioritising work to practically realise as much potential as possible from limited resources, funds and time | Facilitating the creation of a team strategy and project roadmap; identifying sustainability options beyond funding windows; identifying and implementing a target project pathway to maximise impact potential |
 
-A key characteristic of RAMs is flexibility, as there is no one-size-fits-all approach to delivering impact for research project teams. A major component of the RAM role is identifying suitable pathways to sustainability and impact for any particular project, and leading on the implementation of that pathway.
+A key characteristic of RAMs is our flexibility, as there is no one-size-fits-all approach to delivering impact for research project teams. RAMs will work to identify suitable pathways to sustainability and impact for any particular project, and leading on the implementation of that target pathway.
 
 Learn more about our stakeholder engagement activities and access our insights [here](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html).
 
