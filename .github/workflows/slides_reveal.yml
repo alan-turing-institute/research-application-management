@@ -31,7 +31,7 @@ jobs:
 
     - name: Convert Markdown to HTML using reveal.js
       run: |
-        pandoc slides.md -t revealjs -s -o slides.html -V revealjs-url=./reveal.js -V theme=black
+        pandoc slides/slides.md -t revealjs -s -o slides/slides.html -V revealjs-url=./reveal.js -V theme=black
 
     - name: Commit changes
       run: |

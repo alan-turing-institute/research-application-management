@@ -61,7 +61,7 @@ for project in df['Project'].unique():
         markdown += slide_content
     
 # Write the entire slide deck to a markdown file
-with open('slides.md', 'w') as md_file:
+with open(os.path.join(script_dir,'slides.md'), 'w') as md_file:
     md_file.write(markdown)
 
 print("Generated slides.md")
