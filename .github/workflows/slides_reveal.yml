@@ -24,7 +24,7 @@ jobs:
         pip install jinja2
 
     - name: Generate slides using Python
-      run: python generate_slides.py
+      run: python slides/generate_slides.py
 
     - name: Install Pandoc
       run: sudo apt-get install pandoc
