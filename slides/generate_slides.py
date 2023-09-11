@@ -8,7 +8,8 @@ import os
 from jinja2 import Environment, FileSystemLoader
 
 # Set up Jinja2 environment and load the templates
-env = Environment(loader=FileSystemLoader('.'))
+script_dir = os.path.dirname(os.path.abspath(__file__))
+env = Environment(loader=FileSystemLoader(script_dir))
 slide_project = env.get_template('slide_templates/template_project_horizontal.md')
 slide_bullets = env.get_template('slide_templates/template_bullets_vertical.md')
 slide_bullets2 = env.get_template('slide_templates/template_iframe_background.md')
@@ -16,11 +17,11 @@ slide_image = env.get_template('slide_templates/template_image.md')
 slide_url = env.get_template('slide_templates/template_url_vertical.md')
 
 # Read the title slide from title_template.md
-with open('slide_templates/template_title.md', 'r') as title_file:
+with open(os.path.join(script_dir, 'slide_templates/template_title.md'), 'r') as title_file:
     markdown = title_file.read()
 
 # Read data from CSV to pandas
-df = pd.read_csv('output_ram.csv')
+df = pd.read_csv(os.path.join(script_dir,'output_ram.csv'))
 #group by project
 df = df.groupby('Project')
 
