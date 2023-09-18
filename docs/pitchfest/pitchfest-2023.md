@@ -115,11 +115,65 @@ We therefore feel it important to not make the prize too large/swanky, as it may
 - We may also want to consider layered prizes, e.g. opportunities for those who apply, the finalists and the winner.
 
 ### Call for applications
+You can see [our collection of comms templates here](./comms-templates.md)
+
 #### Summary
+This part of the process was mainly focused on Outreach to possible applicants.
+
+PitchFest 2023 was open to anybody with a Turing affiliation, including any researchers working on a Turing project, Turing Fellows, and Enrichments Students. 
+Researchers could apply either individually or as a project team.
+
+The main outreach focused on:
+- Posting in relevant Turing Slack channels
+- Asking PMU to forward the opportunity on 
+- Hosting Office hours for anyone that had questions
+- Individual reachout to enrichment students via Slack
+
+We had a range of people apply, but decided to focus upon enrichment students specifically, as we felt they would be most receptive to the opportunity.
+Nevertheless, we had applications (17 in total) from both enrichment students and Turing researchers.
+
+All people that applied would probably be classified as early career researchers.
+This is what we expected, and may influence who you choose to reach out to!
+
+##### Slack channel posting
+We had some general comms options that we shared in key Slack channels.
+
+You can see templates [here](./comms-templates.md). 
+This may feel a little bit spam-y - remember that this is a cool opportunity that people should know about!
+
+##### PMU outreach
+This was a more strategic attempt to get outreach across the Institute, asking the PMU team to share details of PitchFest with their respective programmes and project teams.
+
+This is worth doing, though it is hard to tell how much more impactful this is than using open channels like Slack.
+
+Templates [here](./comms-templates.md)
+
+##### Office Hours
+We hosted Office hours twice during the application window.
+
+These were arranged quite ad-hoc, and basically involved us sitting in the kitchen of the Office and on a Zooom for people to come ask questions.
+
+Even though it was ad-hoc, there were still a handful of people who attended to ask questions about the application process so is worth doing.
+
+The second session we brought cookies to entice people to talk to us - which worked a treat!
+
+##### Individual outreach
+One of the more effective strategies was to reach out individually to approx 100 enrichment students, using people who were part of the enrichment students channel on Slack.
+
+Although a manual time sink (unless you want to write a script for it...) it felt worth it from an individual engagement perspective.
 
 #### Tasks
+- [ ] Identify target audience and methods for engagement
+- [ ] Create comms templates so anybody on the team can do outreach
+- [ ] Create engagement tracker to determine who you have reached out to
+- [ ] Schedule at least one office hour for potential applicants to drop in to.
 
 #### Potential improvements
+- We didn't ask people how they heard about PitchFest. It may be good to include this as a question to answer on the application form.
+- A bit more planning and outreach for the Office Hours would likely be worth it.
+- Some more creative forms of outreach could be good. Or additional opportunities like Turing Town hall, advertising video etc.
+- If we decide to include non-Turing people, a lot more thought will be needed for this part of the process.
+
 
 ### Closing applications and judging process
 #### Summary
