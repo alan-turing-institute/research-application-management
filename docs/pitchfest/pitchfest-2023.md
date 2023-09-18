@@ -12,7 +12,7 @@ PitchFest broadly consisted of the following steps, which will be broken down be
 - [Call for applications](#call-for-applications)
 - [Closing applications and judging process](#closing-applications-and-judging-process)
 - [Finalist training](#finalist-training)
-- [Finalist training session](#finalist-training-session)
+- [Finalist reheasal session](#finalist-reheasal-session)
 - [PitchFest event at AIUK](#pitchfest-event-at-aiuk)
 - [Wrapping up and next steps](#wrapping-up-and-next-steps)
 
@@ -188,8 +188,6 @@ For all non Finalists, we emailed them with some further opportunities, includin
 - Feedback on their pitch
 
 
-
-
 #### Tasks
 - [ ] Close the application form
 - [ ] Email all those who have applied with further details about the judging process
@@ -197,15 +195,58 @@ For all non Finalists, we emailed them with some further opportunities, includin
 
 #### Potential improvements
 - Our judging criteria didn't quite deliver on exactly what we were looking for - having more testing of the judging criteria (e.g. maybe RAMs submit their own pitches and we learn from that what we're looking for) would make the process a lot more auditable
+- Mainly from a timing perspective we didn't follow up with formal recordings for those who applied. We should be careful to only offer what we wan deliver on!
 
 ### Finalist training
 #### Summary
+We ran 1-1 training sessions for finalists over the course of a week.
+
+Finalists booked 30 minute slots over [Calendly](https://calendly.com/pitchfest/30min?month=2023-09).
+
+The structure of the session was:
+- Remind them of the judging criteria
+- Have them practice their pitch
+- Give group feedback in the room
+- Have them practice again
+- Cover next steps
+
+##### Judging criteria
+We reminded them of the judging criteria, and how judging would work on the day at AIUK (judges provide feedback, audience votes for favourite).
+
+##### Practicing their pitch
+Almost all finalists were nervous about doing this. 
+However, we helped them understand the importance of starting to practice the pitch, and that its uncomfortable to do it for the first time but the best way to improve it quickly.
+We also timed the pitches to get pitchers used to the idea of being under time pressure.
+
+Some of them practiced more than once.
+This is definitely a case of reading the room and providing the appropriate level of support/feedback to pitchers.
+
+##### Group feedback
+We started this part by asking the pitchers themselves how they thought the pitch went (what was good, what could be improved etc.). 
+We then went around the room and shared some thoughts on how the pitch could be improved.
+
+This feedback ranged from delivery style, to restructuring the content, to suggesting including/dropping content.
+
+##### Next steps
+Next steps included:
+- Working on asynchronous improvements to scripts on Google Docs (collaboratively with the RAM team)
+- Preparing for the rehearsal session
+- Making ourselves available for any final support questions in Collaboration Cafes
+
+We also emailed participants with key feedback from the session to help them improve their pitch
 
 #### Tasks
+- [ ] Get finalists to book into a training session
+- [ ] Plan the structure of the training sessions
+- [ ] Setup additional support mechanisms (e.g. script editing)
+- [ ] Record feedback on participants' pitches that can be shared with them afterwards
 
 #### Potential improvements
+- We provided ad hoc feedback on the day, which worked well. However RAMs going in with a more in-depth/expert knowledge on what makes a good presentation, that we can both feedback to pitchers and share resources with them, would be next level
+- Improving the scripts asynchronously was done as a last minute improvement, however was on of the most important bits of support we offered! Time should be given for this to be done properly, maybe over a week or two, with conscious input and feedback from a range of people.
+- After the fact, pitchers mentioned how they worked and shaped the pitch with their project teams. More structured feedback opportunities from project teams/experts could be introduced here to really take pitches to the next level
 
-### Finalist training session
+### Finalist reheasal session
 #### Summary
 
 #### Tasks

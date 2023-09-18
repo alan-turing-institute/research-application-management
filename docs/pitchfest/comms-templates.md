@@ -4,4 +4,13 @@ These were used at the Alan Turing Institute to reach different people, please a
 
 ## PitchFest 2022
 
-###
+### Outreach
+- Slack
+    - General
+    - Office hours
+
+### Finalists
+- Info + actions
+
+### Non finalists
+- Feedback
