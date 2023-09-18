@@ -92,6 +92,8 @@ We therefore feel it important to not make the prize too large/swanky, as it may
 - We ended up only having one person present per pitch - this should be made clear at the application stage
 - Creating an FAQs to live on the one pager from common questions we had would be beneficial
 - Text pithces didn't work. Video or audio submission should be mandatory.
+This should be open for longer so people have more time to apply
+- It might be good to share an example good and bad application so people know what they are aiming for (the RAM team should create these)
 
 ##### Judging criteria
 
@@ -196,6 +198,7 @@ For all non Finalists, we emailed them with some further opportunities, includin
 #### Potential improvements
 - Our judging criteria didn't quite deliver on exactly what we were looking for - having more testing of the judging criteria (e.g. maybe RAMs submit their own pitches and we learn from that what we're looking for) would make the process a lot more auditable
 - Mainly from a timing perspective we didn't follow up with formal recordings for those who applied. We should be careful to only offer what we wan deliver on!
+- You may want to create a more formal judging panel beyond your specific team
 
 ### Finalist training
 #### Summary
@@ -242,6 +245,8 @@ We also emailed participants with key feedback from the session to help them imp
 - [ ] Record feedback on participants' pitches that can be shared with them afterwards
 
 #### Potential improvements
+- These sessions could benefit from being longer - perhaps 45 mins per participant
+- Ideally everyone should be in the room for this. Online can work but it's not the same, and participants need to practice pitching with an audience.
 - We provided ad hoc feedback on the day, which worked well. However RAMs going in with a more in-depth/expert knowledge on what makes a good presentation, that we can both feedback to pitchers and share resources with them, would be next level
 - Improving the scripts asynchronously was done as a last minute improvement, however was on of the most important bits of support we offered! Time should be given for this to be done properly, maybe over a week or two, with conscious input and feedback from a range of people.
 - After the fact, pitchers mentioned how they worked and shaped the pitch with their project teams. More structured feedback opportunities from project teams/experts could be introduced here to really take pitches to the next level
@@ -257,13 +262,17 @@ We brought some snacks and kept it casual.
 We gave a brief intro presentation about what to expect at AI UK, before giving each participant a chance to give their pitch.
 We then opened the floor to feedback from those in the room, before giving participants the chance to practice their pitches again.
 
+This event should be hybrid so people can join online.
+
 #### Tasks
 - [ ] Book a big room for the rehearsal
 - [ ] Prepare the tone of the session (e.g. snacks, initial presentation etc.). Keeping the tone light and informal worked really well.
 - [ ] Ensure the right people are in the room to providfe feedback
+- [ ] Ensure you have an online facilitator
 
 #### Potential improvements
-- Due to the short-term warning, we didn't have many people attend the session who weren't involved in PitchFest. In the end this created quite a nice, safe environment for all participants to support each other. However, a possible improvement may be to get more people in the room to listen to pitches, and possibly someone senior from Turing. Another option is to have two rehearsal sessions, one with just the participants and a few others (keep the supportive, safe atmosphere) and one with a lot more Turing people (to practice the public speaking element)
+- Due to the short-term warning, we didn't have many people attend the session who weren't involved in PitchFest. In the end this created quite a nice, safe environment for all participants to support each other. However, a possible improvement may be to get more people in the room to listen to pitches, and possibly someone senior from Turing. Another option is to have two rehearsal sessions, one with just the participants and a few others (keep the supportive, safe atmosphere) and one with a lot more Turing people (to practice the public speaking element). This could be a day event - morning with just the pitchers, lunch, afternoon with other Turing people.
+- More time should be given to plan and promote this
 
 ### PitchFest event at AIUK
 #### Summary
@@ -285,15 +294,20 @@ It would be good to sit in the front row to be available to help with any last m
 
 #### Tasks
 - [ ] Prepare posts to go out on institutional and personal socials
-- [ ] Create a one pager for judges to understand what is required from them
+- [ ] Create a one pager for judges to understand what is required from them, and also a cheat sheet for them on the day to score/keep notes on each pitch
 - [ ] Create a one pager/script for the host
-- [ ] PRepare the slides to go behind the pitchers
+- [ ] Prepare the slides to go behind the pitchers
 - [ ] Be on hand to help with any last minute logistics
 - [ ] Prepare Slido for voting
 
 #### Potential improvements
 - It would've been good to have a space afterwards for everyone to come talk to the finalists. This could be a stall at AI UK, or some kind of reception outside the main room. It would be good for the RAM team to also be there to answer any questions
 - (A bit selfish), but it might be good to plug the RAM team/your team during the event - perhaps in the period when the audience is voting.
+- It would've been good to practice once with Pitchers on the stage itself before the event, so they could familiarise themselves with where to stand and also get a feel for the size of the room/audience
+- A prize for all finalists would be good - maybe PitchFest T-shirts?
+- For outreach ahead of time, it would be cool to hae some slides/graphics on the finalists that can be shared publicly to build hype, and give them some exposure
+- Judges should be given more time to be booked into PitchFest, and told what they will need to do
+- It might be cool to have last year's winner be a judge at the next one!
 
 ### Wrapping up and next steps
 #### Summary
@@ -315,6 +329,7 @@ Make sure you know what this will look like ahead of time
 - [ ] Decide what you will offer all participants (winner, finalists, non-finalists) ahead of time
 - [ ] Ensure all processes are in place to deliver on these offerings
 - [ ] Hold debrief sessions with both finalists and the organising team soon after the event to capture feedback
+- [ ] Claim back all relevant expenses
 
 #### Potential improvements
 - We ran out of steam a bit at this stage. Figuring out what we can offer finalists and participants ahead of time and planning for it is a critical improvement for next time
