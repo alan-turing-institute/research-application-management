@@ -248,21 +248,75 @@ We also emailed participants with key feedback from the session to help them imp
 
 ### Finalist reheasal session
 #### Summary
+The rehearsal session was hsoted in Enigma for 1.5 hours the week before AI UK.
+
+We required all participants to learn their pitches off by heart, and be present in the Office for the session.
+The tone of the session was a fun, safe space for pitches to practice their pitches and get feedback from other participants, and others in the room.
+
+We brought some snacks and kept it casual. 
+We gave a brief intro presentation about what to expect at AI UK, before giving each participant a chance to give their pitch.
+We then opened the floor to feedback from those in the room, before giving participants the chance to practice their pitches again.
 
 #### Tasks
+- [ ] Book a big room for the rehearsal
+- [ ] Prepare the tone of the session (e.g. snacks, initial presentation etc.). Keeping the tone light and informal worked really well.
+- [ ] Ensure the right people are in the room to providfe feedback
 
 #### Potential improvements
+- Due to the short-term warning, we didn't have many people attend the session who weren't involved in PitchFest. In the end this created quite a nice, safe environment for all participants to support each other. However, a possible improvement may be to get more people in the room to listen to pitches, and possibly someone senior from Turing. Another option is to have two rehearsal sessions, one with just the participants and a few others (keep the supportive, safe atmosphere) and one with a lot more Turing people (to practice the public speaking element)
 
 ### PitchFest event at AIUK
 #### Summary
+The big day!
+
+Hopefully you would have a lot of event support for the day.
+We required all pitchers, judges and the host to arrive 30 minutes early back stage to be mic'ed up and prepare for their pitches. 
+
+Participants gave their presentations in front of a static slide (they are not allowed any slides themselves).
+This was followed by feedback from a selection of the expert judging panel
+
+Audience vote was then cast by Slido, with the winner given on a folded piece of paper to the host. 
+While the auidence was voting the judges were consulted on what makes a good pitch, good research, and what they understand impact to mean.
+
+The winner was then provided with a trophy, before giving a little speech.
+
+It would be good to sit in the front row to be available to help with any last minute preparations
+
 
 #### Tasks
+- [ ] Prepare posts to go out on institutional and personal socials
+- [ ] Create a one pager for judges to understand what is required from them
+- [ ] Create a one pager/script for the host
+- [ ] PRepare the slides to go behind the pitchers
+- [ ] Be on hand to help with any last minute logistics
+- [ ] Prepare Slido for voting
 
 #### Potential improvements
+- It would've been good to have a space afterwards for everyone to come talk to the finalists. This could be a stall at AI UK, or some kind of reception outside the main room. It would be good for the RAM team to also be there to answer any questions
+- (A bit selfish), but it might be good to plug the RAM team/your team during the event - perhaps in the period when the audience is voting.
 
 ### Wrapping up and next steps
 #### Summary
+There were a few things we actioned after the event, including:
+- A debrief with the finalists
+- A debrief with the organising team
+- Comms through the Turing network about the winner
+
+##### Debrief with finalists
+This was really important to get finalists feedback on how the process went, what could be improved for next time and also to get some stories of their experience we could use for promotion (which we never did)
+
+##### Debrief with organising team
+Hopefully obvious, key to do this soon after the event whilst it's still on everyone's minds and you can record possible improvements
+
+##### Comms through Turing networks
+Make sure you know what this will look like ahead of time
 
 #### Tasks
+- [ ] Decide what you will offer all participants (winner, finalists, non-finalists) ahead of time
+- [ ] Ensure all processes are in place to deliver on these offerings
+- [ ] Hold debrief sessions with both finalists and the organising team soon after the event to capture feedback
 
 #### Potential improvements
+- We ran out of steam a bit at this stage. Figuring out what we can offer finalists and participants ahead of time and planning for it is a critical improvement for next time
+- It would've been cool to do a blog post/article or something on PitchFest that we could've shared with people afterwards, including quotes from those who took part. This would embed PitchFest and its awesomeness further in the public psyche
+- Some things became difficult to organise (e.g. recording all pitches and sharing them on the Turing YT) because we didn't organise them in advance. Making sure this is all prepared in advance is important, otherwise you risk letting this slide like we did.
