@@ -83,7 +83,7 @@ Prizes included:
 Eventually a Turing bust was created as the trophy for the winner, which went down really well, this should be included in the future!
 
 The focus of PitchFest should be friendly competition, and the chance to learn how to pitch your work to a broad audience - for all those who take part.
-We therefore feel it important to not make the prize too large/swanky, as it may end up promoting the wrong message
+We therefore feel it important to not make the prize too large/swanky, as it may end up promoting the wrong message.
 
 #### Tasks
 - [ ] Create a one pager/application form that contains all relevant information, which included the following tasks:
@@ -92,6 +92,7 @@ We therefore feel it important to not make the prize too large/swanky, as it may
     - [ ] Decide upon judging criteria
     - [ ] Decide event timeline
     - [ ] Identify and confirm initial list of judges
+    - [ ] Identify and confirm prizes for winner
 
 
 #### Potential improvements
@@ -111,6 +112,7 @@ We therefore feel it important to not make the prize too large/swanky, as it may
 
 ##### Prizes
 - With some more funding and preparation time better prizes could be offered, e.g. networking or skill development opportunities. However these should not be so large as to create too intense a competition, or risk excluding non-winners from good development opportunities.
+- We may also want to consider layered prizes, e.g. opportunities for those who apply, the finalists and the winner.
 
 ### Call for applications
 #### Summary
