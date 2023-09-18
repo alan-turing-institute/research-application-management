@@ -18,15 +18,6 @@ PitchFest broadly consisted of the following steps, which will be broken down be
 
 ### Preparation
 #### Summary
-- One pager
-    - Summary and process
-        - How to apply
-        - Maximum number of finalists
-
-    - Judging criteria
-    - Timelines
-- Judge outreach
-- Decide prizes
 
 The first step was to scope out what PitchFest looks like. 
 This included considerations for:
