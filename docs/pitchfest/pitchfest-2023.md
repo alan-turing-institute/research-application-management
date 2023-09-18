@@ -1,0 +1,112 @@
+# PitchFest 2023
+
+This page contains a write-up of all the steps that made up PitchFest 2023, run by the Alan Turing Institute at AI UK 2023.
+
+Please feel free to use this as a guide to set up and run your own PitchFest! 
+However, please don't take the below as a rigid script - this was our first year running it and we learned a lot to improve for future years.
+This is highlighted by a 'potential improvements' heading under each section below.
+
+## Overview
+PitchFest broadly consisted of the following steps, which will be broken down below:
+- [Preparation](#preparation)
+- [Call for applications](#call-for-applications)
+- [Closing applications and judging process](#closing-applications-and-judging-process)
+- [Finalist training](#finalist-training)
+- [Finalist training session](#finalist-training-session)
+- [PitchFest event at AIUK](#pitchfest-event-at-aiuk)
+- [Wrapping up and next steps](#wrapping-up-and-next-steps)
+
+### Preparation
+#### Summary
+- One pager
+    - Summary and process
+        - How to apply
+        - Maximum number of finalists
+
+    - Judging criteria
+    - Timelines
+- Judge outreach
+- Decide prizes
+
+The first step was to scope out what PitchFest looks like. 
+This included considerations for:
+- The application process
+- The judging criteria
+- The event timeline
+- The judges
+- The prizes
+
+The end output for this stage was the creation of a [PitchFest one pager](https://www.turing.ac.uk/pitchfest-share-your-research-world) to which all applications were directed.
+
+##### Application process
+Applicants needed to submit their application via Google Form that contained:
+- Their name (required)
+- Their Turing role or affiliation (required, only Turing people could apply for PitchFest 2023)
+- Pitch title (required)
+- Association with a Turing research project (optional)
+- Other people involved with the pitch (optional)
+- Pitch (required, submission either via text or link to a video or audio recording)
+- Any other information (optional)
+
+##### Judging criteria
+The judging criteria were determined by the RAM team, and were:
+- **Accessibility and communication**: The audience at AI UK is broad with a diverse range of attendees coming from various backgrounds. Is the pitch appropriate for the audience while also being as inclusive and accessible as possible? 
+- **Real-world application**: As the national institute for data science and AI, it’s crucial to ensure our research outputs are being applied to solve real-world problems. Does the pitch clearly lay out the motivations for the work and identify real-world applications? 
+- **Future directions**: The Turing seeks to build open source infrastructure that is accessible to all. Does the project reflect the principles of openness, reproducibility, and co-creation that ensure a sustainable and meaningful research output? 
+
+
+
+
+
+#### Tasks
+- [ ] The creation of a one pager/application form that contains all relevant information, which may include
+    - [ ] 
+
+#### Potential improvements
+##### Application process
+- This could possibly be opened up to people outside the Turing in the future
+- We ended up only having one person present per pitch - this should be made clear at the application stage
+- Creating an FAQs to live on the one pager from common questions we had would be beneficial
+- Text pithces didn't work. Video or audio submission should be mandatory.
+
+### Call for applications
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
+
+### Closing applications and judging process
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
+
+### Finalist training
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
+
+### Finalist training session
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
+
+### PitchFest event at AIUK
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
+
+### Wrapping up and next steps
+#### Summary
+
+#### Tasks
+
+#### Potential improvements
