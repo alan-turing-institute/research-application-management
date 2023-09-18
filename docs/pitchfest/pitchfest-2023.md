@@ -177,10 +177,35 @@ Although a manual time sink (unless you want to write a script for it...) it fel
 
 ### Closing applications and judging process
 #### Summary
+After applications closed we went through the judging process.
+
+Firstly we thanked everybody who applied for applying, and let them know the timelines for when we would let them know of finalists.
+
+For the assessment process, we used a rubrik based on the judging criteria to initially shortlist the applications. 
+At least two members of the team should be involved in this process.
+We then had a discussion as a team as to who our finalist would be.
+
+Once we had chosen the finalists, we emailed them with further information and instructions, mainly confirming:
+- They wanted to take part
+- They were free to be in person at AI UK
+- They signed up for finalist training (see below)
+- They could attend the practice event (see below)
+
+For all non Finalists, we emailed them with some further opportunities, including:
+- Possibly recording their pitch more formally after AIUK
+- Offering 50% off for AI UK
+- Feedback on their pitch
+
+
+
 
 #### Tasks
+- [ ] Close the application form
+- [ ] Email all those who have applied with further details about the judging process
+- [ ] Set aside time with the RAM and events team to shortlist finalists
 
 #### Potential improvements
+- Our judging criteria didn't quite deliver on exactly what we were looking for - having more testing of the judging criteria (e.g. maybe RAMs submit their own pitches and we learn from that what we're looking for) would make the process a lot more auditable
 
 ### Finalist training
 #### Summary
