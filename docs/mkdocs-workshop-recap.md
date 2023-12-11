@@ -2,6 +2,7 @@
 
 **Date:** 8 December, 2023  
 **Workshop Leader:** Kalle Westerling
+**Recording:** https://thealanturininstitute.sharepoint.com/:v:/s/RAM/EbXiTi9bFd5Ol-nJLTapQGMBTwz5nK01QzzXVNWwz5jXdg?e=vIVb6W
 
 ---
 
