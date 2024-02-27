@@ -1,4 +1,6 @@
 # Stakeholder Workshop Checklist
+This checklist is meant to support the design and delivery of stakeholder workshops.
+As a RAM, you will likely be working with other teams on the workshop, who may have other objectives. This checklist shouldn't be seen as a comprehensive list of all possible tasks or all mandatory tasks. It is meant to support the planning and task distribution amongst members of the workshop organising team.
 
 ## Pre-workshop
 _Depending on how big the project team is, ask who will be supporting this workshop and communicate roles & responsibilities for any of the following task categories:_
