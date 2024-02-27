@@ -1,7 +1,6 @@
 # Stakeholder Workshop Checklist
 
-## Pre-workshop:** At this stage all activities that need to happen before the workshop should be completed.
-
+## Pre-workshop
 _Depending on how big the project team is, ask who will be supporting this workshop and communicate roles & responsibilities for any of the following task categories:_
 
 ### Stakeholder Engagement (Core RAM task)
@@ -33,7 +32,7 @@ _Depending on how big the project team is, ask who will be supporting this works
 * Consider hybrid options for all inclusive participation. Is the set-up required for hybrid in place?
 * Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures.
 
-**During workshop** 
+## During workshop
 
 * Setup equipment at the location according to the plan for the day (e.g., seating)
 * Test all technology and take stock of required resources prior to arrival of participants 
@@ -48,7 +47,7 @@ _Depending on how big the project team is, ask who will be supporting this works
     * Dedicated session for next steps
     * Final remarks from the organisers
 
-**Post-workshop**
+## Post-workshop
 
 * Send a follow up survey requesting feedback
 * Where possible, forward resources used on the day
