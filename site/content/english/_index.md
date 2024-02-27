@@ -1,7 +1,7 @@
 ---
 # Banner
 banner:
-  title: "Reseach Application Managers"
+  title: "Research Application Managers"
   content: "RAMs collaborate with research teams to make their research output **more relevant** for a broad audience within and beyond the scope of the original research field."
   image: "/images/banner.png"
   button:
