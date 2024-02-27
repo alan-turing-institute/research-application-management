@@ -1,16 +1,37 @@
 # Stakeholder Workshop Checklist
 
-**Pre-workshop:** At this stage all activities that need to happen before the workshop should be completed.
-* Identifying a group of participants (e.g., stakeholder mapping)
-* Obtaining specific contact details
-* Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
-* Capturing all neccessary participant data in line with legal requirements (e.g., personal details, dietary requirements, etc)
+## Pre-workshop:** At this stage all activities that need to happen before the workshop should be completed.
+
+_Depending on how big the project team is, ask who will be supporting this workshop and communicate roles & responsibilities for any of the following task categories:_
+
+### Stakeholder Engagement (Core RAM task)
+
+* Identify a group of participants (e.g., stakeholder mapping)
+* Obtain specific contact details
+* Are stakeholders being engaged for the first time?
+    * If yes convene an introductory session prior to the main workshop
+* Choose appropriate group or breakout activities for the workshop
+* Be clear in how output will be captured from the participants (e.g., scribes, video/audio recordings, etc)
+
+### Workshop Planning and Execution (Coordination / RAM tasks)
+
+* Create workshop briefing and circulate with wider project team
+    * Clear summary of the workshop aims, including definition of audience, list of expected outcomes, explicit value proposition for all invited stakeholders.
+    * Timed agenda for the day, including names of session facilitators
 * Planning the workshop execution and post-workshops stages in line with the purpose, objectives and outcomes
 * Having contingency plans for identified risks (e.g., limited acceptances from participants) 
+
+### Communications
+
+* Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
+* Capturing all neccessary participant data in line with legal requirements (e.g., personal details, dietary requirements, etc) 
+    * Different info and data may be required by different project parties (eg. funders, turing, gdpr requirements) -> Coordinate with PMU to know what is suitable for your project.
+
+### Logistics
+
 * Consider a location which is appropriate for all participants to be included taking into account any special requirements 
-* Consider hybrid options for all inclusive participation
-* Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures
-* Be clear in how output will be captured from the participants (e.g., scribes, video/audio recordings, etc)
+* Consider hybrid options for all inclusive participation. Is the set-up required for hybrid in place?
+* Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures.
 
 **During workshop** 
 
