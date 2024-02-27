@@ -7,7 +7,7 @@
 
 This repository includes resources recommended created by the Alan Turing Institute's Research Application Management team. Learn more about our team and what Research Application Managers do at the Turing [here](https://www.turing.ac.uk/research/research-programmes/tools-practices-and-systems/research-application-management).
 
-The [docs folder](https://github.com/alan-turing-institute/research-application-management/tree/main/docs) includes case studies and templates for RAM outputs including strategy sessions and stakeholder workshops.
+The [resources folder](https://github.com/alan-turing-institute/research-application-management/tree/main/resources) includes case studies and templates for RAM outputs including strategy sessions and stakeholder workshops.
 
 The [onboarding folder](https://github.com/alan-turing-institute/research-application-management/tree/main/onboarding) includes checklists for RAM onboarding sessions, designed to be covered during a new employee's first two weeks.
 
