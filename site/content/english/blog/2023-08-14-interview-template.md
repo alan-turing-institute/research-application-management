@@ -3,9 +3,9 @@ title: "Interview template"
 meta_title: ""
 description: "this is meta description"
 date: 2023-08-14T05:00:00Z
-image: "/images/image-placeholder.png"
+# image: "/images/image-placeholder.png"
 categories: ["Research Application Management", "Templates"]
-author: "Hari Soon"
+author: "Hari Sood"
 tags: ["Research Impact Assessment", "Project Evaluation Methodology", "Stakeholder Engagement", "Operational Alignment", "Research Values And Ethics", "Audience Identification And Engagement", "Accessibility And Openness", "Reusability And Sustainability", "Governance And Community Involvement", "Project Design And Management", "Impact Building And Storytelling", "Funding And Resource Management"]
 draft: false
 ---
