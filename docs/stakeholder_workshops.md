@@ -20,19 +20,17 @@ _Depending on how big the project team is, ask who will be supporting this works
     * Clear summary of the workshop aims, including definition of audience, list of expected outcomes, explicit value proposition for all invited stakeholders.
     * Timed agenda for the day, including names of session facilitators
 * Planning the workshop execution and post-workshops stages in line with the purpose, objectives and outcomes
-* Having contingency plans for identified risks (e.g., limited acceptances from participants) 
-
-### Communications
-
-* Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
 * Capturing all neccessary participant data in line with legal requirements (e.g., personal details, dietary requirements, etc) 
     * Different info and data may be required by different project parties (eg. funders, turing, gdpr requirements) -> Coordinate with PMU to know what is suitable for your project.
+* Having contingency plans for identified risks (e.g., limited acceptances from participants) 
 
-### Logistics
+### Logistics & Communications
 
 * Consider a location which is appropriate for all participants to be included taking into account any special requirements 
 * Consider hybrid options for all inclusive participation. Is the set-up required for hybrid in place?
+* Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
 * Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures.
+
 
 ## During workshop
 
