@@ -6,28 +6,7 @@ date: 2023-08-21T11:56:00Z
 # image: "/images/image-placeholder.png"
 categories: ["Research Application Management", "Impact Measurement and Metrics", "Research and Academic Collaboration"]
 author: "Alden Conner"
-tags: [
-    "Organizational Goals",
-    "Project Management",
-    "Stakeholder Engagement",
-    "Impact Measurement",
-    "Research Impact",
-    "Collaboration",
-    "Industry Partnership",
-    "Government Partnership",
-    "Academic Partnership",
-    "Metrics Development",
-    "Project Goals Tracking",
-    "Efficiency Improvement",
-    "Public Good",
-    "Policy Support",
-    "Public Engagement",
-    "Revenue Growth Strategies",
-    "Cost Reduction Strategies",
-    "Early Career Researcher (ECR) Support",
-    "Net Promoter Score",
-    "Leadership Testimonials"
-]
+tags: ["Organizational Goals", "Project Management", "Stakeholder Engagement", "Impact Measurement", "Research Impact", "Collaboration", "Industry Partnership", "Government Partnership", "Academic Partnership", "Metrics Development", "Project Goals Tracking", "Efficiency Improvement", "Public Good", "Policy Support", "Public Engagement", "Revenue Growth Strategies", "Cost Reduction Strategies", "Early Career Researcher (ECR) Support", "Net Promoter Score", "Leadership Testimonials"]
 draft: false
 ---
 
