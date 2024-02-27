@@ -1,4 +1,4 @@
-# ATI RAM Events Checklist
+# RAM Event Checklist
 
 Here is a checklist of steps to take and resources to refer to when organising a Turing event.
 
