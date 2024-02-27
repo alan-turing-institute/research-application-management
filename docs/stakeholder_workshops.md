@@ -7,39 +7,40 @@ _Depending on how big the project team is, ask who will be supporting this works
 
 ### Stakeholder Engagement (Core RAM task)
 
-* Identify a group of participants (e.g., stakeholder mapping)
-* Obtain specific contact details
-* Are stakeholders being engaged for the first time?
-    * If yes convene an introductory session prior to the main workshop
-* Choose appropriate group or breakout activities for the workshop
-* Be clear in how output will be captured from the participants (e.g., scribes, video/audio recordings, etc)
+- [ ] Identify a group of participants (e.g., stakeholder mapping)
+    * _see tools like [stakeholder mapping](https://the-turing-way.netlify.app/collaboration/stakeholder-engagement.html?highlight=stakeholder%20engagement) using our [miro template](https://miro.com/app/board/uXjVPXH3tNw=/)_
+- [ ] Obtain stakeholder contact details
+    * _Check with PMU for project guidelines on how to store personal data in line with legal requirements_
+- [ ] Convene an introductory session prior to the main workshop
+   * _Are stakeholders being engaged for the first time? - If yes, opt for a meeting for a more in-depth introduction, else a questionnaire may suffice_
+   * _See examples from past RAM work here_
+- [ ] Choose appropriate group or breakout activities for the workshop
+    * _Find inspiration [here](https://www.sessionlab.com/library)_
+- [ ] Be clear in how output during the workshop will be captured from the participants (e.g., scribes, video/audio recordings, etc)
 
 ### Workshop Planning and Execution (Coordination / RAM tasks)
 
-* Create workshop briefing and circulate with wider project team
-    * Clear summary of the workshop aims, including definition of audience, list of expected outcomes, explicit value proposition for all invited stakeholders.
-    * Timed agenda for the day, including names of session facilitators
-* Planning the workshop execution and post-workshops stages in line with the purpose, objectives and outcomes
-* Capturing all neccessary participant data in line with legal requirements (e.g., personal details, dietary requirements, etc) 
-    * Different info and data may be required by different project parties (eg. funders, turing, gdpr requirements) -> Coordinate with PMU to know what is suitable for your project.
-* Having contingency plans for identified risks (e.g., limited acceptances from participants) 
+- [ ] Create workshop briefing and circulate with wider project team
+    * _Clear summary of the workshop aims, including definition of audience, list of expected outcomes, explicit value proposition for all invited stakeholders._
+    * _Timed agenda for the day, including names of session facilitators_
+- [ ] Planning the workshop execution and post-workshops stages in line with the purpose, objectives and outcomes
+- [ ] Having contingency plans for identified risks (e.g., limited acceptances from participants)
 
 ### Logistics & Communications
 
-* Consider a location which is appropriate for all participants to be included taking into account any special requirements 
-* Consider hybrid options for all inclusive participation. Is the set-up required for hybrid in place?
-* Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
-* Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures.
-
+- [ ] Consider a location which is appropriate for all participants to be included taking into account any special requirements 
+- [ ] Consider hybrid options for all inclusive participation. Is the set-up required for hybrid in place?
+- [ ] Sending formal invitations with all neccessary information (e.g., background, purpose, obtaining consent, ethical considerations, location, etc) 
+- [ ] Have all digital tools and hardcopy resources ready with contingency plans in-place especially for technology failures.
 
 ## During workshop
 
-* Setup equipment at the location according to the plan for the day (e.g., seating)
-* Test all technology and take stock of required resources prior to arrival of participants 
-* Register attendees as they arrive and disseminate any resources (e.g., documentation, name badges, etc)
-* Where possible, actively engage all participants with opportunities to provide input, especially those who appear to be reluctant to engage
-* As the organiser, exercise a disciplined approach that adheres to the time-scales assigned to activities ensuring regular breaks
-* Consider the following activities as part of the workshop format:
+- [ ] Setup equipment at the location according to the plan for the day (e.g., seating)
+- [ ] Test all technology and take stock of required resources prior to arrival of participants 
+- [ ] Register attendees as they arrive and disseminate any resources (e.g., documentation, name badges, etc)
+- [ ] Where possible, actively engage all participants with opportunities to provide input, especially those who appear to be reluctant to engage
+- [ ] As the organiser, exercise a disciplined approach that adheres to the time-scales assigned to activities ensuring regular breaks
+- [ ] Consider the following activities as part of the workshop format:
     * Welcome & Introductions
     * Setting the scene, background, aims & objectives and logistics for the day
     * Presentation of pre-requisite knowledge through an appropriate format prior to engaging participants
@@ -49,6 +50,6 @@ _Depending on how big the project team is, ask who will be supporting this works
 
 ## Post-workshop
 
-* Send a follow up survey requesting feedback
-* Where possible, forward resources used on the day
-* Once outcomes have been realised communicate these 
+- [ ] Send a follow up survey requesting feedback
+- [ ] Where possible, forward resources used on the day
+- [ ] Once outcomes have been realised communicate these 
