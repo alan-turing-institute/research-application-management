@@ -20,7 +20,9 @@ that you could consider using if you are in need of some inspiration, or want to
 
 
 # Tools
-
+|Title|Type|Description|
+|-----|----|-----------|
+|[RAM project prioritisation template](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/fgomezmedina_turing_ac_uk/EQDLdl0vzxFGgQHLCtFqqjgB3Dmj86OgeUhJmlz9ve8Fmw?e=sk9aDY)|Tool|A tool to help RAMs rank and prioritise what projects to engage with|
 
 # Guides
 |Title|Type|Description|
