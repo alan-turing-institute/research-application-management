@@ -22,7 +22,7 @@ that you could consider using if you are in need of some inspiration, or want to
 # Tools
 |Title|Type|Description|
 |-----|----|-----------|
-|[RAM project prioritisation template](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/fgomezmedina_turing_ac_uk/EQDLdl0vzxFGgQHLCtFqqjgB3Dmj86OgeUhJmlz9ve8Fmw?e=sk9aDY)|Tool|A tool to help RAMs rank and prioritise what projects to engage with|
+|[RAM project prioritisation template](https://thealanturininstitute-my.sharepoint.com/:w:/g/personal/fgomezmedina_turing_ac_uk/EQDLdl0vzxFGgQHLCtFqqjgB3Dmj86OgeUhJmlz9ve8Fmw?e=sk9aDY)|Tool|A tool to help RAMs rank and prioritise what projects to engage with. In order to prioritise and rank RAM engagement in project, a template has been developed where a RAG score can be assigned to each dimension and sub-dimension of project engagement. If a programme consists of multiple projects, a table should be completed for each project, such that they can be compared and help in decision-making|
 
 # Guides
 |Title|Type|Description|
