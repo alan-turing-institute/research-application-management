@@ -1,12 +1,13 @@
 # RAM Reading Resources
-Below you will find a compendium of resources that may be useful for conducting the RAM role. These resources draw from other roles such as: 
+Below you will find a compendium of resources that may be useful for conducting the RAM role. These resources draw from other roles and fields such as: 
 - product managers
+- product developers
+- user researchers
 - go-to-market associates
 - startup founders
 - research software engineers
 - forward-deployed engineers
 - research community managers
-- user researchers
 
 This compendium includes tools, frameworks, and ideas that are used in these roles (although not necessarily limited to those) 
 that you could consider using if you are in need of some inspiration, or want to sense-check your approach to solve a RAM-related task!
